@@ -1,3 +1,4 @@
+<!-- Verification test by Devin - simple change for PR demo -->
 <div align="center">
   <img src="docs/assets/langroid-card-lambda-ossem-rust-1200-630.png" alt="Logo" 
         width="400" align="center">
